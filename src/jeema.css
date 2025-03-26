@@ -1,0 +1,17 @@
+.eco-container{
+    width: 50%;
+    margin: auto;
+    height: 50vh;
+    box-shadow: 0px 3px 15px rgba(113, 115, 119, 0.5);
+}
+/* .formInput{
+    display: flex;
+    gap: 5rem;
+    padding: 5px;
+}
+.colInput{
+    display: flex;
+}
+button{
+    width: 100%;
+} */
